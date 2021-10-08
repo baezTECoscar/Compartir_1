@@ -1,7 +1,9 @@
 /*
 Aqui van los estilos
 */
-
+body{
+	background-color: blue;
+}
 .container{
 	background-color: darkred;
 }

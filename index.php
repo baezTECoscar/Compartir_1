@@ -12,5 +12,8 @@
 		</hgroup>
 		Lorem ipsum dolor sit amet consectetur adipisicing, elit. Suscipit, in soluta nostrum? Natus obcaecati nostrum aliquid dicta deserunt repudiandae eaque est alias aperiam eos, corporis quo error aspernatur commodi doloribus.
 	</div>
+	<footer>
+		Creado por: Oscar Ossiel Aguilar Baez
+	</footer>
 </body>
 </html>
