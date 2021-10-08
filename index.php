@@ -6,6 +6,11 @@
 	<title>Document</title>
 </head>
 <body>
-	
+	<div class="container">
+		<hgroup>
+			<h1>Bienvenido</h1>
+		</hgroup>
+		Lorem ipsum dolor sit amet consectetur adipisicing, elit. Suscipit, in soluta nostrum? Natus obcaecati nostrum aliquid dicta deserunt repudiandae eaque est alias aperiam eos, corporis quo error aspernatur commodi doloribus.
+	</div>
 </body>
 </html>
